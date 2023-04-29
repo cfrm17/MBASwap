@@ -22,12 +22,6 @@ While actual par Municipal Swap Rates are not available in the market, BMA ratio
 
 References:
 
-https://finpricing.com/lib/EqVariance.html
-
-https://zenodo.org/record/6558053/files/MbaSwap.pdf
-
-https://zenodo.org/record/6558053#.YpDwC6gpDq4
-
-
+https://finpricing.com/aboutus.html
 
 
